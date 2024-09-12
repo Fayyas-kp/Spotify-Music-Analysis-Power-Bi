@@ -1,4 +1,4 @@
-![image alt]()
+![image alt](https://github.com/Fayyas-kp/Spotify-Music-Analysis-Power-Bi/blob/7667d9cbc303bccfc01fe92577dca2d0a17aa076/Spotify%20logo.png)
 # Spotify-Music-Analysis-Power-Bi
 ### Overview
 This project aims to create a dynamic Power BI dashboard to visualize and analyze top streamed songs on Spotify. Leveraging Power BI's robust features, we provide an interactive interface for exploring various aspects of music streaming data.
